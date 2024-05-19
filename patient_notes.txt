@@ -1,0 +1,26 @@
+
+===========================================Clinical Note====================================
+ Patient Name: Adele Johnson
+Patient Id: 1234567890
+Date of Visit: March 22, 2023
+
+Current Medications:
+- Levetiracetam 1000mg daily in two divided doses
+- Lamotrigine 200mg daily in three divided doses
+- Topiramate 50mg twice daily
+- Valproic acid 1250mg daily in three divided doses
+
+Chief Complaint: Uncontrolled seizure activity, increasing frequency and severity over the past month.
+
+Adverse Reactions:
+- Lamotrigine: Rash, dizziness, and nausea at previous higher dosages
+- Topiramate: Cognitive impairment and paresthesia
+
+Family Medical History: Mother and elder sister have epilepsy, both well-controlled on medication.
+
+General Observations: Patient appeared anxious and agitated during the interview. Mood and affect were labile. Neurological exam was unremarkable.
+
+Assessment: Increased seizure frequency suggests a need for adjustment in current anti-seizure medications or consideration of additional therapy. Adverse reactions limit options, requiring close monitoring and alternative strategies.
+
+Follow-up Plan: Schedule an appointment with the neurologist to review the current medication regimen and consider adding another antiepileptic drug or modifying dosages. Monitor for side effects and discuss with patient their tolerance and any concerns they may have. Encourage consistency in adherence to the treatment plan. Consider alternative therapies such as ketogenic diet, vagus nerve stimulation, or deep brain stimulation if seizures remain poorly controlled. Engage a social worker or counselor for additional emotional support during this challenging time.
+========================================================================================
